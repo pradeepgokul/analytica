@@ -6,12 +6,12 @@ A simple script to receive visitors IP Address using python for your website(Ana
 
 Open Teminal
 
-Navigate to clients_ip folder
+Navigate to `clients_ip` folder
 
-Markup : `chmod +x index.py`
+`chmod +x index.py`
  
 Run 
 
-Markup : `python index.py` or Markup : `./index.py`
+`python index.py` or `./index.py`
 
-To view the output open up text.txt file
+To view the retive ip open `text.txt` file
