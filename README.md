@@ -8,12 +8,10 @@ Open Teminal
 
 Navigate to clients_ip folder
 
-.. code-block:: bash
-    chmod +x index.py
+Markup : `chmod +x index.py`
  
 Run 
 
-.. code-block:: bash
-    python index.py or ./index.py
+Markup : `python index.py` or Markup : `./index.py`
 
 To view the output open up text.txt file
